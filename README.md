@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align="center">
+<img src="https://tellmeurl.com/joyhentai/logo.png" alt="JoyHentai" width="100">
+</p>
+<h1 align="center">JoyHentai</h1>
 
-<!--
-**joyhentai/joyhentai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Read or download doujinshi & manga for free
 
-Here are some ideas to get you started:
+## URLs
+[https://zha.joyhentai.me/](https://zha.joyhentai.me/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[https://zhb.joyhentai.me/](https://zhb.joyhentai.me/)
+
+[https://zh.joyhentai.fun/](https://zh.joyhentai.fun/)
+
+[https://ja.joyhentai.org/](https://ja.joyhentai.org/)
+
+[https://joyhentai.org/](https://joyhentai.org/)
+
+---
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=joyhentai.joyhentai)
