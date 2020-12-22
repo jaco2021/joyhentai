@@ -12,9 +12,26 @@
 
 [https://zh.joyhentai.fun/](https://zh.joyhentai.fun/)
 
-[https://ja.joyhentai.org/](https://ja.joyhentai.org/)
+[https://ja.joyhentai2.com/](https://ja.joyhentai2.com/)
 
-[https://joyhentai.org/](https://joyhentai.org/)
+[https://en.joyhentai1.com/](https://en.joyhentai1.com/)
+
+---
+
+<details>
+  <summary>Unavailable URLs</summary>
+  
+  [https://zh.joyhentai.com/](https://zh.joyhentai.com)
+  
+  [https://zh.joyhentai.pw/](https://zh.joyhentai.pw/)
+  
+  [https://zh.joyhentai.me/](https://zh.joyhentai.me/)
+  
+  [https://ja.joyhentai.net/](https://ja.joyhentai.net/)
+  
+  [https://ja.joyhentai.org/](https://ja.joyhentai.org/)
+  
+</details>
 
 ---
 
